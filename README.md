@@ -6,6 +6,8 @@
 
 DEMO: http://i.idinr.com
 
+ [**中文说明**](https://github.com/hangbale/photography-blog/wiki/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+
 ## Features
 
 - Fully Responsive
@@ -67,7 +69,7 @@ DEMO: http://i.idinr.com
    
    ```
 
-4. A `public` directory will be created, use it as your server root;
+4. A `public` directory will be created, use it as your server root
 
 
 
