@@ -37,7 +37,13 @@
 				{% if breadcrumbs %}
 				{% for item in breadcrumbs %}
 				{% if item.current %}
-				<a href="javascript:;" class="breadcrumbs-current"><strong>/ {{item.title}}</strong></a>
+				<a href="javascript:;" class="breadcrumbs-current">
+					{% if description %}
+					<strong>/ {{item.title}} &nbsp;&nbsp; {{ description }}</strong>
+					{% else %}
+					<strong>/ {{item.title}}</strong>
+					{% endif %}
+				</a>
 				{% else %}
 				<a href="{{item.path}}"><strong>/ {{item.title}}</strong></a>
 				{% endif %}
