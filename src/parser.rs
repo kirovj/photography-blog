@@ -9,6 +9,7 @@ use urlencoding::{decode};
 pub struct Website {
   pub title: Option<String>,
   pub description: Option<String>,
+  pub date: Option<String>,
   pub children: Option<Vec<Website>>,
   pub url: Option<String>,
   pub category: Option<String>,
