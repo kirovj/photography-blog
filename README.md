@@ -2,11 +2,20 @@
 
 > The theme was originally made by HTML5 UP [Multiverse | HTML5 UP](https://html5up.net/multiverse)
 
-
-
 DEMO: [https://photograph.wuyiting.cn](https://photograph.wuyiting.cn)
 
- [**中文说明**](https://github.com/kirovj/photography-blog/wiki)
+[**中文说明**](https://github.com/kirovj/photography-blog/wiki)
+
+## Change Log
+
+### 2022-6-15
+
+- Add date info
+- Show Description at page
+
+## Screenshot
+
+![](./screenshot.png)
 
 ## Features
 
