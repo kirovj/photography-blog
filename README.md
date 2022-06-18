@@ -4,9 +4,9 @@
 
 
 
-DEMO: http://i.idinr.com
+DEMO: [https://photograph.wuyiting.cn](https://photograph.wuyiting.cn)
 
- [**中文说明**](https://github.com/hangbale/photography-blog/wiki/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+ [**中文说明**](https://github.com/kirovj/photography-blog/wiki)
 
 ## Features
 
